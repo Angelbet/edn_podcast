@@ -333,7 +333,7 @@ function NavbarHome() {
                 <div ref={menuReveral_b2} className={`${style.z_index}`}>
                   <div className={`${style.button_text_wrapper}`}>
                     <Link
-                      href="/"
+                      href="https://open.spotify.com/show/4xOM98A8Es30eGevw6tYwe"
                       className={`${style.menu} ${style.button_rounded} ${style.w_inline_block} ${style.button_text} ${style.capitalize} ${regular.className}`}>
                       <FontAwesomeIcon icon={faSpotify} />&nbsp;
                       Spotify
@@ -345,7 +345,7 @@ function NavbarHome() {
                 <div ref={menuReveral_b3} className={`${style.z_index}`}>
                   <div className={`${style.button_text_wrapper}`}>
                     <Link
-                      href="/"
+                      href="https://www.youtube.com/channel/UCZbq1qvbQzxDGUyuoPnF4LQ"
                       className={`${style.menu} ${style.button_rounded} ${style.w_inline_block} ${style.button_text} ${style.capitalize} ${regular.className}`}>
                       <FontAwesomeIcon icon={faYoutube} />&nbsp;
                       Youtube
@@ -357,7 +357,7 @@ function NavbarHome() {
                 <div ref={menuReveral_b4} className={`${style.z_index}`}>
                   <div className={`${style.button_text_wrapper}`}>
                     <Link
-                      href="/"
+                      href="https://represent.com/store/escueladenada"
                       className={`${style.menu} ${style.button_rounded} ${style.w_inline_block} ${style.button_text} ${style.capitalize} ${regular.className}`}>
                       <FontAwesomeIcon icon={faShirt} />&nbsp;
                       Ropita
@@ -395,7 +395,7 @@ function NavbarHome() {
             }}
           >
             <Link
-              href="/"
+              href="https://www.patreon.com/escueladenada"
               className={`${style.button_rounded} ${style.w_inline_block} ${style.pantreon}`}
               ref={pantreonReveral}
             >
@@ -434,7 +434,7 @@ function NavbarHome() {
                 <div className={`${style.z_index}`}>
                   <div className={`${style.button_text_wrapper}`}>
                     <Link
-                      href="/"
+                      href="https://open.spotify.com/show/4xOM98A8Es30eGevw6tYwe"
                       className={`${style.menu} ${style.button_rounded} ${style.w_inline_block} ${style.button_text} ${style.capitalize} ${regular.className}`}>
                       <FontAwesomeIcon icon={faSpotify} />&nbsp;
                       Spotify
@@ -448,7 +448,7 @@ function NavbarHome() {
                 <div className={`${style.z_index}`}>
                   <div className={`${style.button_text_wrapper}`}>
                     <Link
-                      href="/"
+                      href="https://www.youtube.com/channel/UCZbq1qvbQzxDGUyuoPnF4LQ"
                       className={`${style.menu} ${style.button_rounded} ${style.w_inline_block} ${style.button_text} ${style.capitalize} ${regular.className}`}>
                       <FontAwesomeIcon icon={faYoutube} />&nbsp;
                       Youtube
@@ -462,7 +462,7 @@ function NavbarHome() {
                 <div className={`${style.z_index}`}>
                   <div className={`${style.button_text_wrapper}`}>
                     <Link
-                      href="/"
+                      href="https://represent.com/store/escueladenada"
                       className={`${style.menu} ${style.button_rounded} ${style.w_inline_block} ${style.button_text} ${style.capitalize} ${regular.className}`}>
                       <FontAwesomeIcon icon={faShirt} />&nbsp;
                       Ropita
