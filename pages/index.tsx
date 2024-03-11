@@ -23,7 +23,7 @@ export default function Home() {
 
         <meta property="og:title" content="Escuela de Nada Podcast" />
         <meta property="og:description" content="Podcast de comedia improvisada presentado por Leo Rojas, Chris Andrade y Nacho Redondo." />
-        <meta property="og:image" content="https://res.cloudinary.com/drg26w50h/image/upload/v1710123701/edn/images/1200_x_630_w9rbgn.jpg" />
+        <meta property="og:image" content="https://res.cloudinary.com/drg26w50h/image/upload/v1710157074/edn/images/1200_x_630_gfgmrp.jpg" />
         <meta property="og:url" content="https://ednpodcast.netlify.app" />
         <meta property="og:image:width" content="1200" />
         <meta property="og:image:height" content="630" />
@@ -32,7 +32,7 @@ export default function Home() {
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="Escuela de Nada - EDN Podcast" />
         <meta name="twitter:description" content="Podcast de comedia improvisada presentado por Leo Rojas, Chris Andrade y Nacho Redondo." />
-        <meta name="twitter:image" content="https://res.cloudinary.com/drg26w50h/image/upload/v1710123701/edn/images/1200_x_630_w9rbgn.jpg" />
+        <meta name="twitter:image" content="https://res.cloudinary.com/drg26w50h/image/upload/v1710157074/edn/images/1200_x_630_gfgmrp.jpg" />
       </Head>
       <div className={styles.body_noise} />
 
