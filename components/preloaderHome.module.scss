@@ -1,0 +1,72 @@
+.page_loading {
+    z-index: 9998;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: fixed;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    overflow: hidden;
+    width: 100%;
+    height: 100vh;
+}
+
+.loading_overlay {
+    z-index: 9999;
+    background-color: #000;
+    background-image: url(https://res.cloudinary.com/drg26w50h/image/upload/v1710108612/edn/images/loader/1870x1081_tvxxk0.jpg);
+    width: auto;
+    height: 100vh;
+    background-position: center center;
+    /* Ajuste para centrar la imagen */
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+}
+
+/* =======================
+    BREAKPOINTS ===========
+    ====================== */
+
+@media (min-width: 991px) and (max-width: 1199px) {
+    .loading_overlay {
+        background-image: url(https://res.cloudinary.com/drg26w50h/image/upload/v1710108971/edn/images/loader/1200x936_hnjkvk.webp);
+    }
+}
+
+@media (min-width: 809px) and (max-width: 991px) {
+
+    .loading_overlay {
+        background-image: url(https://res.cloudinary.com/drg26w50h/image/upload/v1710108978/edn/images/loader/1537x2048_bh9cvb.webp);
+    }
+
+}
+
+@media (min-width: 620px) and (max-width: 809px) {
+
+    .loading_overlay {
+        background-image: url(https://res.cloudinary.com/drg26w50h/image/upload/v1710108962/edn/images/loader/809x1024_fybbqn.webp);
+    }
+
+}
+
+@media (min-width: 496px) and (max-width: 620px) {
+
+    .loading_overlay {
+        background-image: url(https://res.cloudinary.com/drg26w50h/image/upload/v1710108963/edn/images/loader/620x608_o8em1z.webp);
+    }
+
+}
+
+@media screen and (max-width: 496px) {
+    .loading_overlay {
+        background-image: url(https://res.cloudinary.com/drg26w50h/image/upload/v1710108976/edn/images/loader/390x844_mh1noi.webp);
+    }
+
+}
